@@ -183,9 +183,6 @@ main:hover ::-webkit-scrollbar-thumb {
    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
    gap: 40px 20px;
 }
-.videos-container .video:first-of-type {
-   grid-column: 2;
-}
 .videos-container .video .thumbnail img {
    max-width: 100%;
 }
